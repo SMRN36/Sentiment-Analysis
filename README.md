@@ -11,7 +11,7 @@
  
  **Set stopwords :** here stopwords are downloaded from nltk then created a set of all the stopwords for the English words 
 
-**Pre-processing :**At first we have created a helper function to get rid of all the unwanted columns. It deletes redundant column to which we will pass the dataframe and columns that is to be deleted 
+**Pre-processing :** At first we have created a helper function to get rid of all the unwanted columns. It deletes redundant column to which we will pass the dataframe and columns that is to be deleted 
 
 Here we have performed 5 steps for pre-processing textual data 
 * Casting 
